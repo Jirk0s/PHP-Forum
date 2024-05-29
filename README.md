@@ -7,10 +7,10 @@ Seminární práce (SDĚLMITO)
 ### Změnit
 [dbconnect.php](https://github.com/Jirk0s/PHP-Forum/blob/main/dbconnect.php)
 ```
-    $dbhost = "";
+    $dbhost = ""; //localhost
     $dbcharset = "utf8";
-    $dbname = "";
-    $dbuser = "";
-    $dbpass = "";
+    $dbname = ""; //forum
+    $dbuser = ""; //jmeno
+    $dbpass = ""; //heslo123
     $dbtype = "mysql";
 ```
