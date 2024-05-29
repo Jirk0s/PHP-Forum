@@ -1,3 +1,3 @@
 # PHP-Forum
 Seminární práce (SDĚLMITO)
-/sql file/forum.sql
+(/sql file/forum.sql)
