@@ -1,4 +1,4 @@
 # PHP-Forum
 Seminární práce (SDĚLMITO)
-##SQL FILE
-(/sql file/forum.sql)
+### SQL FILE
+[ZDE](./sql file/sql)
